@@ -12,3 +12,6 @@ List of Modules:\
 5 - View and Check Information: The admin can view and check the books that are borrowed and who were the students that borrowed them. Students can also view their borrowing transactions just like the book information, date of book borrowing and returning.\
 6 - Borrowing Information: The borrowing information should consist the important details of the borrowers and the books borrowed by each borrowers. This information should also record the day of borrowing as well as the returning of the book.\
 7 - Borrowing Records: This will record all the transaction made and are stored for a period of time to serve as reference for important matters.\
+
+
+![image](https://user-images.githubusercontent.com/52505088/139373510-8e120597-7b23-42fb-8ae8-e577f59ad12a.png)
